@@ -24,7 +24,7 @@ Existen muchos algoritmos de aprendizaje supervisado, que pueden dividirse en do
 - **Algoritmos de *regresión***: Predicen un valor *y* que es numérico, como el precio de una casa o el número de transacciones de venta.  
 - **Algoritmos de *clasificación***: Predicen a qué categoría (o *clase*) pertenece una observación. El valor *y* en un modelo de clasificación es un vector de valores de probabilidad entre 0 y 1 (uno por cada clase), que indica la probabilidad de que la observación pertenezca a dicha clase.  
 
-En este (*repositorio*), nos centraremos en la *regresión*, usando un ejemplo basado en un estudio real en el que se recopilaron datos de un sistema de bicicletas compartidas para predecir el número de alquileres en función de la estacionalidad y las condiciones climáticas. Utilizaremos una versión simplificada del conjunto de datos de ese estudio.
+En este (*repositorio*), nos centraremos en la *regresión* y sus algoritmos más comunes, usando un ejemplo basado en un estudio real en el que se recopilaron datos de un sistema de bicicletas compartidas para predecir el número de alquileres en función de la estacionalidad y las condiciones climáticas. Utilizaremos una versión simplificada del conjunto de datos de ese estudio.
 
 ##  Algoritmos de regresión comunes
 
