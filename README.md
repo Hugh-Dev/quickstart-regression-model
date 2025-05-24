@@ -28,5 +28,8 @@ En este (*repositorio*), nos centraremos en la *regresión* y sus algoritmos má
 
 ##  Algoritmos de regresión comunes
 
-
 ![Modelos de regresión](assets/models.jpg)
+
+## Ejemplo de Regresión Lineal
+
+- [Detalles del Notebook](/regression/linear/linear_regression_model.ipynb)
